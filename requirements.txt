@@ -1,5 +1,5 @@
 torch>=2.0.1
-git+https://github.com/taidopurason/transformers@LUMI
+transformers==4.36.2
 accelerate
 appdirs
 loralib
