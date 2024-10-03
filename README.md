@@ -6,6 +6,7 @@ This repository contains the fine-tuning, inference and data formating scripts f
 See [scripts/gec](./scripts/training) for example scripts.
 
 
+## Models
 Models for GEC trained on 1M Llama-generated errors, then gold errors:
 * Estonian: [tartuNLP/Llammas-base-p1-llama-errors-p2-GEC](https://huggingface.co/tartuNLP/Llammas-base-p1-llama-errors-p2-GEC)
 * Ukrainian: [tartuNLP/Llamma-2-7b-ukr-p1-llama-errors-p2-GEC](https://huggingface.co/tartuNLP/Llamma-2-7b-ukr-p1-llama-errors-p2-GEC)
@@ -19,7 +20,8 @@ Models for AEG (artificial error generation):
 
 You can also find all the models in our HuggingFace [collection](https://huggingface.co/collections/tartuNLP/llms-for-gec-66fd7a7eec3fb65796466612)
 
-Citation:
+## Citation
+
 ````
 @misc{luhtaru2024errhumanllamaslearn,
       title={To Err Is Human, but Llamas Can Learn It Too}, 
@@ -31,3 +33,8 @@ Citation:
       url={https://arxiv.org/abs/2403.05493}, 
 }
 ````
+
+## Acknowledgements
+Code originally based on [github.com/TartuNLP/llammas](https://github.com/TartuNLP/llammas).
+
+
