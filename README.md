@@ -17,6 +17,7 @@ Models for AEG (artificial error generation):
 * Ukrainian: [tartuNLP/Llamma-2-7b-ukr-AEG](https://huggingface.co/tartuNLP/Llamma-2-7b-ukr-AEG)
 * German: [tartuNLP/leo-hessianai-7b-AEG](https://huggingface.co/tartuNLP/leo-hessianai-7b-AEG)
 
+Synthetic data generated with AEG models: [tartuNLP/aeg-data](https://huggingface.co/datasets/tartuNLP/aeg-data).
 
 You can also find all the models in our HuggingFace [collection](https://huggingface.co/collections/tartuNLP/llms-for-gec-66fd7a7eec3fb65796466612)
 
