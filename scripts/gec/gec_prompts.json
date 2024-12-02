@@ -1,0 +1,5 @@
+{
+    "est": "### Instruction:\nReply with a corrected version of the input sentence in Estonian with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence.\n\n### Input:\n{input}\n\n### Response:\n",
+    "ukr": "### Instruction:\nReply with a corrected version of the input sentence in Ukrainian with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence.\n\n### Input:\n{input}\n\n### Response:\n",
+    "deu": "### Instruction:\nReply with a corrected version of the input sentence in German with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence.\n\n### Input:\n{input}\n\n### Response:\n"
+}

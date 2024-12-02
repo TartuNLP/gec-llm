@@ -1,0 +1,5 @@
+{
+    "est": "Reply with a corrected version of the input sentence in Estonian with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence.",
+    "ukr": "Reply with a corrected version of the input sentence in Ukrainian with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence.",
+    "deu": "Reply with a corrected version of the input sentence in German with all grammatical and spelling errors fixed. If there are no errors, reply with a copy of the original sentence."
+}

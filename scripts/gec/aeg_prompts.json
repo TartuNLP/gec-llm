@@ -1,0 +1,5 @@
+{
+    "est": "### Instruction:\nReply with a grammatically incorrect version of the Estonian input sentence.\n\n### Input:\n{input}\n\n### Response:\n",
+    "ukr": "### Instruction:\nReply with a grammatically incorrect version of the Ukrainian input sentence.\n\n### Input:\n{input}\n\n### Response:\n",
+    "deu": "### Instruction:\nReply with a grammatically incorrect version of the German input sentence.\n\n### Input:\n{input}\n\n### Response:\n"
+}
